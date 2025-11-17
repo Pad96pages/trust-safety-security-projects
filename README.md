@@ -136,6 +136,3 @@ POST /moderate
 
 All datasets included here are **synthetic and safe**.
 They contain no real personal data and do not execute any harmful content.
-
----
-
